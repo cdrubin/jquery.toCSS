@@ -8,6 +8,8 @@
  
 /*
  * Renamed to match toHTML and modified to return the CSS string
+ * Cefan Daniel Rubin
+ * 16 May 2013
  */
 
 jQuery.toCSS = function( style ) {
